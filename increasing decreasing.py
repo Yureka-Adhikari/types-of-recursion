@@ -7,4 +7,4 @@ def increasingdecreasing(n,num):
     print (n)
     
 n = int(input("Enter the n : "))
-increasingdecreasing(n,n)    
+increasingdecreasing(n,n)
